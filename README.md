@@ -1,0 +1,1 @@
+You can use this file to fix the initial 1 second lag before any audio is played on bluetooth / wireless headphones. You can use a py to exe program to make this a background program that auto starts when windows starts by simply converting this existing file and dumping it into your local or globla startup folder.
